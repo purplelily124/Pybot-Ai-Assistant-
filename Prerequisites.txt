@@ -1,0 +1,12 @@
+To allow this module to work properly you need to download certain libraries from python official community site .
+each library has its working .
+1. Speech Recognition : This iis used to recognize human voice .
+source for download : https://pypi.org/project/SpeechRecognition/ >> pip install SpeechRecognition
+2. Pyttsx 3/ Pyttsx 4 : This is used to convert text to speech .
+source for download : https://pypi.org/project/pyttsx4/ >> pip install pyttsx4
+3. Wikipedia : This is used to redirect to wikipedia when asked .
+sorce for download https://pypi.org/project/wikipedia/ >> pip install wikipedia
+4. PyJokes : This is used to crack jokes.
+source for download : https://pypi.org/project/pyjokes/ >> pip install pyjokes
+5. ecapture : This is used to capture photo using python command .
+source for download  : https://pypi.org/project/ecapture/ >> pip install ecapture
